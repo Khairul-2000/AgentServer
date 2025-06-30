@@ -6,3 +6,4 @@ langchain-openai==0.2.14
 langgraph==0.2.58
 python-multipart==0.0.12
 mangum==0.18.0
+gunicorn==21.2.0
